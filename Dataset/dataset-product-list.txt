@@ -1,0 +1,60 @@
+Bananas
+Barley
+Bastfibres, others
+Beans, dry	
+Beans, green	
+Berries nes
+Cabbages and other brassicas	
+Castor oil seed	
+Cauliflowers and broccoli	
+Chick peas	
+Chillies and peppers, dry
+Coconuts	
+Cucumbers and gherkins		
+Fibre crops nes	
+Fruit, fresh nes	
+Fruit, tropical fresh nes	
+Garlic	
+Ginger	
+Grapefruit (inc. pomelos)	
+Groundnuts, with shell	
+Jute	
+Lemons and limes	
+Lentils	
+Lettuce and chicory	
+Linseed	
+Maize	
+Mangoes, mangosteens, guavas	
+Melons, other (inc.cantaloupes)	
+Millet	
+Oilseeds nes	
+Onions, dry	
+Oranges	
+Peas, dry	
+Pigeon peas	
+Pineapples	
+Potatoes	
+Pulses nes	
+Rice, paddy	
+Sesame seed	
+Sorghum	
+Spices nes	
+Spinach	
+Sugar cane	
+Sugar crops nes	
+Sweet potatoes	
+Tangerines, mandarins, clementines, satsumas	
+Tea	
+Tobacco	
+Tomatoes	
+Vegetables, fresh nes	
+Wheat	
+Cereals, Total	Cereals
+Citrus Fruit, Total		
+Fibre Crops Primary	
+Fruit Primary	
+Oilcrops	
+Pulses, Total	
+Roots and Tubers
+Vegetables Primary	
+		
