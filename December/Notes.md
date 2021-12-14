@@ -1,15 +1,32 @@
-# Progress report
+## Progress report
 
-## Imp
+### Imp
+```text
+row =  record 
+column  = attribute/dimension 
+target  = prediction 
+```
 
-- *_row_* = _record_
-- *_column_* = _attribute/dimension_
-- *_target_* = _prediction_
+### Identifying problems with the dataset
+```text
+There are no identifiers for the data, even if there is, it is in character format
+```
 
-
-## Identifying problems with the dataset
-- there are no identifiers for the data, even if there is, it is in charachter format
-
-- 
-## Error correction:
-- 
+### To do
+#### Models
+```
+SVM
+KNN
+Random Forest
+MPL
+Multiple regression
+Naive Bias
+```
+#### Make a table with:
+```text
+Confusion Matrix
+Recall
+Pression
+F1
+Accuracy
+```
