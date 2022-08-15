@@ -4,15 +4,15 @@
 
 ```Text
 Abstract:  
-The purpose of this study is to predict crop 
-production using machine learning. The paper focuses on    
-predicting the production of crops depending on temperature, 
-wind speed, humidity, crop type, and harvestable area.  We have 
-used various machine learning models and compared the results. 
-Results were compared against five models, Support Vector 
-Machine (SVM), Naive Bayes, Multiple Linear Regression, 
-K-Nearest Neighbor (KNN) and Random Forest. Out of which Random 
-Forest yielded the highest accuracy score.
+The purpose of this study is to predict crop production using  
+machine learning. The paper focuses on predicting the  
+production of crops depending on temperature, wind speed,    
+humidity, crop type, and harvestable area.  
+We have used various machine learning models and compared the   
+results. Results were compared against five models, Support   
+Vector Machine (SVM), Naive Bayes, Multiple Linear Regression,  
+K-Nearest Neighbor (KNN) and Random Forest. Out of which  
+Random Forest yielded the highest accuracy score.  
 ```
 
 <h3 align="text-left">Folders</h3>
