@@ -3,7 +3,8 @@
 #### Prediction of Crops Production using Machine Learning Algorithms  
 
 ```Text
-Abstract: The purpose of this study is to predict crop 
+Abstract:  
+The purpose of this study is to predict crop 
 production using machine learning. The paper focuses on    
 predicting the production of crops depending on temperature, 
 wind speed, humidity, crop type, and harvestable area.  We have 
