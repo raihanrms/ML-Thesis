@@ -18,10 +18,9 @@ Forest yielded the highest accuracy score.
 
 | Name | Description | Link |
 |:---:|:---:|:---:|
-| Figures | Project Figures | [Click]() |  
-| Documents | All the related documents | [Click]() | 
-| DataSet | Dataset used in the thesis | [Click]() |
-| Jupyter Notebooks | All the algorithms | [Click]() |
+| Documents | All the related documents | [Click](https://github.com/raihanrms/ML-Thesis/tree/main/Documents) | 
+| Dataset | Dataset used in the thesis | [Click](https://github.com/raihanrms/ML-Thesis/tree/main/Dataset) |
+| Jupyter Notebooks | All the algorithms | [Click](https://github.com/raihanrms/ML-Thesis/tree/main/Notebooks) |
 
 <h3 align="text-left">Contributors: </h3>
 
